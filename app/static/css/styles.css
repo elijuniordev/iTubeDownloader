@@ -1,0 +1,26 @@
+body {
+  background-color: #282828;
+}
+
+.logo {
+  height: 75px;
+}
+
+* {
+  color: #fff;
+}
+
+.thumb{
+  align-items: center;
+  justify-content: center;
+  max-width: 60vh;
+  max-width: 60vh;
+}
+
+option {
+  color: #282828 !important;
+}
+
+.centralizar {
+  margin: auto;
+}
